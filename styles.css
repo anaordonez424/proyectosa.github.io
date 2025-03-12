@@ -21,24 +21,30 @@ body {
   /* Cambios de estilo en la las las caracteristicas iniciales */
   .nombre {
     color: blue;
+    font-weight: bold;
   }
   
   .nombre-científico {
     color: blue;
+    font-weight: bold;
   }
   .clase {
     color: blue;
+    font-weight: bold;
   }
   
   .vida-media {
     color: blue;
+    font-weight: bold;
   }
   .tamaño{
     color: blue;
+    font-weight: bold;
   }
   
   .peso {
     color: blue;
+    font-weight: bold;
   }
   
   /* Cambios de estilo en la descripcion */
@@ -48,6 +54,7 @@ body {
   .negrita{
     font-weight: bold
   }
+ 
   /* Cambios de estilo en la fuente */
   .color-fuente {
     color: blue;
